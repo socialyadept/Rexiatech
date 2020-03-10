@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF‐8"?>
+<!DOCTYPE users SYSTEM "users.dtd">
+<users>
+
+<USER>
+<F_name>Abdul</F_name>
+<L_name>Basit</L_name>
+<country>./profile.png</country>
+<about>4.0</about>
+
+
+</USER>
+
+
+<USER>
+<F_name>Ahtasham</F_name>
+<L_name>Ahmed</L_name>
+<country>./profile1.png</country>
+<about>this is me</about>
+
+</USER>
+
+
+<USER>
+<F_name>Zaeem </F_name>
+<L_name>Ahmed</L_name>
+<country>./profile3.png</country>
+<about>4.0</about>
+
+</USER>
+
+</users>

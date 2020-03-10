@@ -1,0 +1,6 @@
+<!ELEMENT USER(F_name,L_name,img?,about)>
+<!ELEMENT F_name (#PCDATA)>
+<!ELEMENT L_name (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT about(#PCDATA)>
+
