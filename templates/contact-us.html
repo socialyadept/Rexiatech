@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block title %}Contact Us{% endblock %}
+
+{% block head %}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="{{ url_for('static', filename='styles/contact.css')}}">
+{% endblock %}
+
+{% block body %}
+ <body>
+    <h3>Contact us to get a quotation</h3>
+    <p>Powered by <a href="rexia.html">Rexia</a></p>
+
+    <div class="container">
+      <form action="/action_page.php">
+        <label for="fname">First Name</label>
+        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+        <label for="lname">Last Name</label>
+        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+        <label for="country">Country</label>
+        <select id="country" name="country">
+          <option value="australia">Australia</option>
+          <option value="canada">Canada</option>
+          <option value="usa">Pakistan</option>
+          <option value="usa">Iran</option>
+          <option value="usa">Italy</option>
+          <option value="usa">UAE</option>
+          <option value="usa">USA</option>
+        </select>
+
+        <label for="subject">What do you want from us? Write a detailed cover letter</label>
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+{% endblock %}

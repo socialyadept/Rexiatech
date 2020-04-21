@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/file.css')}}">
+	<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+	<link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/hk-grotesk" type="text/css"/>
+	{% block head %} {% endblock %}
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "c1-box-2") {
+    x.className += " responsive";
+  } else {
+    x.className = "c1-box-2";
+  }
+}
+</script>
+
+	<title>{% block title %} {% endblock %}</title>
+</head>
+<body>
+	<nav class="navbar">
+
+		<div class="container-1">
+			<div class="c1-box-1">
+				<a href="/rexia" ><img class="logo-width" src="{{ url_for('static', filename='images/rexialogo.png')}}"></a>
+			</div>
+
+			<div class="c1-box-2" id="myTopnav">
+				<a class="dropbtn" href="#">Creativity and Design</a>
+				<a class="dropbtn" href="marketing">Marketing and E-commerce</a>
+			  <a class="dropbtn" href="#">Signatures</a>
+				<a href="javascript:void(0);" class="hamburg" onclick="myFunction()">
+					<i class="fa fa-bars" aria-hidden="true"></i></a>
+
+				<div class="dropdown">
+				  <button class="dropbtn">Business Solutions&ensp;</button>
+				  <div class="dropdown-content-4">
+				    <a href="#">Link c4 <i class="fas fa-angle-down"></i></a>
+				    <a href="#">Link 2</a>
+				    <a href="#">Link 3</a>
+
+				  </div>
+				</div>
+			</div>
+			<div class="c1-box-3">
+				<a href="/login" class="signin">Sign in <i class="fas fa-sign-in-alt"></i></a>
+				<a href="/contact-us" ><button type="button" name="button" class="hireus buttonp1">Hire Us!</button></a>
+			</div>
+
+
+		</div>
+
+	</nav>
+
+{% block body %} {% endblock %}
+
+<footer>
+	<br><br>
+
+	<div class="fcontainer">
+		<div class="f-1">
+			<h3>Products</h3>
+			<span class="" style="float:left;">
+				<a href="#"><p style="margin-top: 0;">CMS</p></a>
+				<a href="marketing.html"><p>Payment Processing</p></a>
+				<a href="#"><p>App store submisson</p></a>
+				<a href="#"><p>SEEKH</p></a>
+			</span>
+		</div>
+		<div class="f-2">
+			<h3>Blogs & Community</h3>
+			<span class="" style="float:left;">
+				<a href="https://blog.linkedin.com/" target="_blank"><p style="margin-top: 0;">Rexia Blog</p></a>
+				<a href="#"><p>Rexia IO</p></a>
+				<a href="https://www.insidebowls.com/our-magazine/" target="_blank"><p>Our Magazine</p></a>
+				<a href="#"><p>Behance</p></a>
+			</span>
+			<span class="" style="float:right;">
+				<a href="https://99u.adobe.com/" target="_blank"><p style="margin-top: 0;">99u</p></a>
+				<a href="https://cmo.adobe.com/" target="_blank"><p>CMO</p></a>
+				<a href="https://news.adobe.com/blogs-social?promoid=226KCZZW&mv=other" target="_blank"><p>View all</p></a>
+				<a href="https://www.facebook.com/rexiatech/"><i class="fab fa-facebook-f"></i></a>
+				<a href="https://twitter.com/thezwitterguy" style="padding: 0 .1rem;"><i class="fab fa-twitter"></i></a>
+				<a href="https://www.instagram.com/rexia_tech/?hl=en"><i class="fab fa-instagram"></i></a>
+			</span>
+
+		</div>
+		<div class="f-3">
+			<h3>Support</h3>
+			<span class="" style="float:left;">
+				<a href="https://www.facebook.com/help/"><p style="margin-top: 0;">Help Center</p></a>
+				<a href="https://www.reddit.com/r/community/"><p>Community Forums</p></a>
+				<a href="https://aws.amazon.com/premiumsupport/plans/enterprise/"><p>Enterprise Support</p></a>
+			</span>
+		</div>
+
+	</div>
+	<div class="smallfooter">
+
+			<h3>Products</h3>
+			<span class="">
+				<a href="#"><p style="margin-top: 0;">CMS</p></a>
+				<a href="makreting.html"><p>Payment Processing</p></a>
+				<a href="#"><p>App store submisson</p></a>
+				<a href="#"><p>SEEKH</p></a>
+			</span>
+
+
+			<h3 class="margin-above">Blogs & Community</h3>
+			<span >
+				<a href="#"><p style="margin-top: 0;">Rexia Blog</p></a>
+				<a href="#"><p>Rexia IO</p></a>
+				<a href="#"><p>Our Magazine</p></a>
+				<a href="#"><p>Behance</p></a>
+			</span>
+			<span class="">
+				<a href="https://99u.adobe.com/" target="_blank"><p>99u</p></a>
+				<a href="https://cmo.adobe.com/" target="_blank"><p>CMO</p></a>
+				<a href="https://news.adobe.com/blogs-social?promoid=226KCZZW&mv=other" target="_blank"><p>View all</p></a>
+				<a href="https://www.facebook.com/rexiatech/"><i class="fab fa-facebook-f"></i></a>
+				<a href="https://twitter.com/thezwitterguy" style="padding: 0 .4rem;"><i class="fab fa-twitter"></i></a>
+				<a href="https://www.instagram.com/rexia_tech/?hl=en"><i class="fab fa-instagram"></i></a>
+			</span>
+
+			<h3 class="margin-above">Support</h3>
+			<span class="">
+				<a href="https://www.facebook.com/help/"><p>Help Center</p></a>
+				<a href="https://www.reddit.com/r/community/"><p>Community Forums</p></a>
+				<a href="https://aws.amazon.com/premiumsupport/plans/enterprise/"><p>Enterprise Support</p></a>
+			</span>
+
+
+	</div>
+
+	<p class="rights">All rights Reserved <i class="far fa-copyright"></i></p>
+
+</footer>
+
+</body>
+</html>
