@@ -63,20 +63,27 @@ nav li a:hover {
     margin: 0;
     padding: 0;
     width: 100%;
-    background: #984447;
+}
+
+.container-1 {
+    width: 80%;
+    margin: auto;
 }
 
 .r-1 h1 {
-    color: white;
+    color: #133B4F;
     margin: 140px 0 0 0px;
+    font-weight: bold;
 }
 
 .learn-more {
     background: #ED9F8C;
+    color: white;
 }
 
 .quotation-req {
  background: #6EA5DB;
+ color: white;
 }
 .asset-1 {
     width: 100%;
