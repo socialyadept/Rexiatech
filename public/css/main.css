@@ -1,0 +1,85 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+body {
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.top-nav {
+    background: #f5f5f5;
+    font-size: 14px;
+}
+
+.link-unstyle:hover {
+    text-decoration: none;
+}
+
+.top-anchors, .top-anchors:hover {
+    margin: 0 5px;
+    color: #394951;
+}
+
+#rexia-logo{
+    width: 100px;
+    color: white;
+}
+
+.nav-div {
+    width: 100%;
+}
+
+nav li a {
+    color: #262626;
+    margin: 0 10px;
+    font-size: 17px;
+    font-size: 14px;
+    letter-spacing: 0.06em;
+    
+}
+
+nav li a:hover {
+    color: #ed9f8c;
+}
+
+
+.row {
+    width: 100%;
+}
+
+.proposal {
+    background: #ed9f8c;
+    color: white;
+}
+
+.proposal:hover {
+    color: white;
+}
+
+.r-1 {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background: #984447;
+}
+
+.r-1 h1 {
+    color: white;
+    margin: 140px 0 0 0px;
+}
+
+.learn-more {
+    background: #ED9F8C;
+}
+
+.quotation-req {
+ background: #6EA5DB;
+}
+.asset-1 {
+    width: 100%;
+    margin: 45px 0;
+}
+
