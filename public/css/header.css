@@ -1,0 +1,68 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+body {
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.top-nav {
+    background: #f5f5f5;
+    font-size: 14px;
+}
+
+.link-unstyle:hover {
+    text-decoration: none;
+}
+
+.top-anchors, .top-anchors:hover {
+    margin: 0 5px;
+    color: #394951;
+}
+
+#rexia-logo{
+    width: 100px;
+    color: white;
+}
+
+.nav-div {
+    width: 100%;
+}
+
+nav li a {
+    color: #262626;
+    margin: 0 10px;
+    font-size: 17px;
+    font-size: 14px;
+    letter-spacing: 0.06em;
+    
+}
+
+nav li a:hover {
+    color: #ed9f8c;
+}
+
+.proposal {
+    background: #ed9f8c;
+    color: white;
+}
+
+.row {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+  .sticky + .content {
+    padding-top: 60px;
+  }

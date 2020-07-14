@@ -1,4 +1,5 @@
 $(document).ready(() => {
+
     $(".services a").hover(function () {
         var value = $(this).index() + 1;
         hoverContent(value);
