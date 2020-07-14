@@ -47,6 +47,8 @@ nav li a:hover {
 
 .row {
     width: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 .proposal {
@@ -90,3 +92,86 @@ nav li a:hover {
     margin: 45px 0;
 }
 
+.r-2 h2 {
+    color: #133B4F;
+}
+
+.container-2 {
+    width: 80%;
+}
+
+.description-1 {
+    font-size: 1.2rem;
+    color: #333333;
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+.services a {
+    text-decoration: none;
+    margin: 0 10px;
+    width: 25%;
+    color: black;
+}
+
+.services h5 {
+    color: #6EA5DB;
+}
+
+.services p {
+ color: #60697c;
+ font-size: 13px;
+}
+
+.div-block {
+    border: 1px solid #d5dbdb;
+    border-top-color: rgb(213, 219, 219);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(213, 219, 219);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(213, 219, 219);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(213, 219, 219);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;   
+    padding: 20px;
+    height: 100%;
+    background: white;
+}
+
+.icons {
+    height: 60px;
+    display: block;
+    margin: 20px auto;
+    margin-bottom: 30px;
+    max-width: 100%;
+}
+
+
+.arrow {
+    width: 16px;
+    line-height: 0.7rem;
+}
+
+.services span {
+    color: #6EA5DB;
+    text-decoration: none;
+}
+
+.spanhover {
+    color: #ED9F8C;
+    margin-right: 5px;
+}
+
+.inverse {
+    background: #F5F5F5;
+    color: #6EA5DB!important;
+}

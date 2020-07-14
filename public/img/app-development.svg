@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512px" height="512px" class=""><g><g>
+	<g>
+		<path d="M229.656,141.656l-11.312-11.312l-24,24c-3.128,3.128-3.128,8.184,0,11.312l24,24l11.312-11.312L211.312,160    L229.656,141.656z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<path d="M317.656,154.344l-24-24l-11.312,11.312L300.688,160l-18.344,18.344l11.312,11.312l24-24    C320.784,162.528,320.784,157.472,317.656,154.344z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="230.7" y="152.019" transform="matrix(0.3164 -0.9486 0.9486 0.3164 23.202 352.2348)" width="50.599" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<path d="M368,0H144c-8.824,0-16,7.176-16,16v480c0,8.824,7.176,16,16,16h224c8.824,0,16-7.176,16-16V16C384,7.176,376.824,0,368,0    z M368,496H144V16l224-0.008V496z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<path d="M200,80V64h-32c-4.416,0-8,3.576-8,8v320c0,4.424,3.584,8,8,8h32v-16h-24V80H200z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<path d="M344,64h-32v16h24v304h-24v16h32c4.416,0,8-3.576,8-8V72C352,67.576,348.416,64,344,64z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="216" y="64" width="80" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<path d="M256,416c-17.648,0-32,14.352-32,32s14.352,32,32,32s32-14.352,32-32S273.648,416,256,416z M256,464    c-8.824,0-16-7.176-16-16c0-8.824,7.176-16,16-16c8.824,0,16,7.176,16,16C272,456.824,264.824,464,256,464z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="224" y="32" width="64" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="216" y="384" width="80" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<path d="M112,64V48H8c-4.416,0-8,3.576-8,8v64v336c0,4.424,3.584,8,8,8h104v-16H16V128h96v-16H16V64H112z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="32" y="80" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="64" y="80" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="96" y="80" width="16" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<path d="M504,48H400v16h96v48h-96v16h96v320h-96v16h104c4.416,0,8-3.576,8-8V120V56C512,51.576,508.416,48,504,48z" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="432" y="80" width="48" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="200" y="224" width="32" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="248" y="224" width="64" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="280" y="256" width="32" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="200" y="256" width="64" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="200" y="288" width="32" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="248" y="288" width="64" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="280" y="320" width="32" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g><g>
+	<g>
+		<rect x="200" y="320" width="64" height="16" data-original="#000000" class="active-path" data-old_color="#000000" fill="#2F3A49"/>
+	</g>
+</g></g> </svg>
