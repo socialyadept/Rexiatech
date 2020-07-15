@@ -1,16 +1,16 @@
-let navbar = $('#navbar');
-let sticky = navbar.offset();
+$(window).on('scroll', function () {
+    let scrollTop = $(this).scrollTop();
 
-$('window').scroll(myFunction());
-
-// Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
-function myFunction() {
-    console.log(window.pageYOffset);
-    if (window.pageYOffset >= sticky.top) {
-        navbar.addClass('sticky')
-        console.log(navbar);
+    if (scrollTop > 1) {
+        $('nav').addClass('sticky-top-scroll');
+        $('nav').removeClass('nav-border bg-white');
 
     } else {
-        navbar.removeClass('sticky');
+        $('nav').removeClass('sticky-top-scroll');
+        $('nav').addClass('nav-border bg-white');
+
+
     }
-}
+
+
+}); 

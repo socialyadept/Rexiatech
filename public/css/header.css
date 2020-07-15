@@ -27,25 +27,66 @@ body {
     color: white;
 }
 
+.nav-border {
+    border-top-color: #e4e4e4;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-bottom-color: #e4e4e4;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial; 
+}
 .nav-div {
     width: 100%;
 }
 
 nav li a {
     color: #262626;
-    margin: 0 10px;
-    font-size: 17px;
+    margin: 0 20px;
     font-size: 14px;
     letter-spacing: 0.06em;
-    
+    padding: 8px 0!important;    
 }
 
 nav li a:hover {
-    color: #ed9f8c;
+    /* border-bottom: 2px solid #F4A950;
+    padding-bottom: 1px!important; */
+    color: inherit;
 }
 
-.proposal {
+nav li a::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #BFE0E2;
+    -webkit-transition: width .3s ease;
+	transition: width .3s ease;
+  }
+
+nav li a:hover::after {
+    color: inherit;
+    width: 100%;
+}
+
+.proposal-btn {
     background: #ed9f8c;
+    color: white;
+    transition:  .3s;
+}
+
+.proposal-btn:focus {
+    outline: none;
+    box-shadow: none;
+
+}
+
+.proposal-btn:hover {
+    background: #E67B60;
     color: white;
 }
 
@@ -55,14 +96,10 @@ nav li a:hover {
     padding: 0;
 }
 
-/* The sticky class is added to the navbar with JS when it reaches its scroll position */
-.sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-  }
-  
-  /* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
-  .sticky + .content {
-    padding-top: 60px;
-  }
+.sticky-top-scroll {
+    -webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,.1);
+    -moz-box-shadow: 0 2px 5px 0 rgba(0,0,0,.1);
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,.1);
+    background: rgba(255,255,255, 0.98);
+    transition-duration: 0.6s;
+}
