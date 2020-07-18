@@ -115,6 +115,50 @@
     color: #6EA5DB!important;
 }
 
-.r-2 {
-    height: 1000px;
+.r-3 {
+    width: 80%;
+    margin: 90px auto;
 }
+
+.div-rounded {
+    border-radius: 25px;
+    /* background: #73AD21; */
+    margin: auto 100px;   
+    width: 320px!important;
+    height: 320px!important;   
+
+}
+
+.mk-caption h5 {
+    color: #133B4F;
+}
+
+.mk-caption p {
+    color: #4F4F4F;
+}
+
+.r-4 {
+    margin: 300px auto;
+}
+
+.purple {
+    color: #133B4F;
+}
+
+
+.small-div-border {
+    border-bottom: 3px solid #ED9F8C;
+    width: 10%;
+}
+
+.industry-img-div {
+    margin-top: 80px;
+}
+
+.industries-img {
+    width: 100%;
+}
+
+
+
+
