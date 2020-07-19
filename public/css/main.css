@@ -155,6 +155,11 @@
     margin-top: 80px;
 }
 
+.industry-img-div div {
+    padding: 0;
+
+}
+
 .industries-img {
     width: 100%;
 }

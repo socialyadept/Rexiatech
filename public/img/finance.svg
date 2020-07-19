@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 360" style="enable-background:new 0 0 256 360;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.8;fill:#F2F2F2;}
+	.st1{fill:url(#SVGID_1_);stroke:url(#SVGID_2_);stroke-width:1.0893;stroke-miterlimit:10;}
+	.st2{fill:url(#SVGID_3_);stroke:url(#SVGID_4_);stroke-width:1.0893;stroke-miterlimit:10;}
+	.st3{fill:url(#SVGID_5_);stroke:url(#SVGID_6_);stroke-width:1.0893;stroke-miterlimit:10;}
+	.st4{fill:url(#SVGID_7_);}
+	.st5{fill:none;stroke:url(#SVGID_8_);stroke-width:1.0893;stroke-miterlimit:10;}
+	.st6{fill:#090909;stroke:#000000;stroke-width:1.9479;stroke-miterlimit:10;}
+	.st7{clip-path:url(#SVGID_10_);fill:#FFFFFF;}
+	.st8{clip-path:url(#SVGID_10_);}
+	.st9{opacity:0.43;fill:url(#SVGID_11_);}
+	.st10{fill:none;stroke:#BBBBBB;stroke-width:0.5673;stroke-miterlimit:10;}
+	.st11{clip-path:url(#SVGID_13_);fill:#373737;}
+	.st12{clip-path:url(#SVGID_13_);}
+	.st13{fill:#FFFFFF;}
+	.st14{fill:#BBBBBB;}
+	.st15{clip-path:url(#SVGID_15_);fill:#373737;}
+	.st16{clip-path:url(#SVGID_15_);}
+	.st17{clip-path:url(#SVGID_10_);fill:url(#SVGID_16_);}
+	.st18{fill:#FF653D;}
+	.st19{fill:none;stroke:#373737;stroke-width:0.8146;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st20{fill:#373737;stroke:#373737;stroke-width:0.8339;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st21{fill:#373737;}
+	.st22{opacity:0.26;}
+	.st23{opacity:0.61;fill:#BBBBBB;}
+	.st24{opacity:0.26;fill:#BBBBBB;}
+	.st25{fill:url(#SVGID_17_);}
+	.st26{opacity:0.75;clip-path:url(#SVGID_19_);}
+	.st27{fill-rule:evenodd;clip-rule:evenodd;fill:#FFC6C6;}
+	.st28{clip-path:url(#SVGID_19_);}
+	.st29{fill:#FF29A1;}
+	.st30{fill:#006164;}
+	.st31{fill:#FA5627;}
+	.st32{fill:none;}
+	.st33{fill-rule:evenodd;clip-rule:evenodd;fill:#FF653D;}
+	.st34{fill:#004D50;}
+	.st35{fill:url(#SVGID_20_);}
+	.st36{fill:url(#SVGID_21_);stroke:url(#SVGID_22_);stroke-width:1.0893;stroke-miterlimit:10;}
+	.st37{fill:url(#SVGID_23_);stroke:url(#SVGID_24_);stroke-width:1.0893;stroke-miterlimit:10;}
+	.st38{fill:url(#SVGID_25_);stroke:url(#SVGID_26_);stroke-width:1.0893;stroke-miterlimit:10;}
+	.st39{fill:url(#SVGID_27_);}
+	.st40{fill:none;stroke:url(#SVGID_28_);stroke-width:1.0893;stroke-miterlimit:10;}
+	.st41{clip-path:url(#SVGID_30_);fill:#FFFFFF;}
+	.st42{clip-path:url(#SVGID_30_);}
+	.st43{opacity:0.43;fill:url(#SVGID_31_);}
+	.st44{clip-path:url(#SVGID_33_);fill:#373737;}
+	.st45{clip-path:url(#SVGID_33_);}
+	.st46{clip-path:url(#SVGID_35_);fill:#373737;}
+	.st47{clip-path:url(#SVGID_35_);}
+	.st48{clip-path:url(#SVGID_30_);fill:url(#SVGID_36_);}
+	.st49{fill:url(#SVGID_37_);}
+	.st50{opacity:0.75;clip-path:url(#SVGID_39_);}
+	.st51{clip-path:url(#SVGID_39_);}
+	.st52{fill:#FFB000;}
+	.st53{fill:#150035;}
+	.st54{opacity:0.8;fill:#FFC2B9;}
+	.st55{fill:#DADFE3;}
+	.st56{fill:#07085B;}
+	.st57{opacity:0.62;fill:#FFFFFF;}
+	.st58{fill:#FF5B7E;}
+	.st59{fill:#02CCC0;}
+	.st60{fill:#FEB546;}
+	.st61{fill:#FFC0BB;}
+	.st62{fill:#1E5AA8;}
+	.st63{fill:#3478CF;}
+	.st64{opacity:0.6;fill:#FC8D84;}
+	.st65{fill:#333333;}
+	.st66{fill:#F99893;}
+	.st67{font-family:'Montserrat-Bold';}
+	.st68{font-size:6.0435px;}
+	.st69{font-family:'Montserrat-SemiBold';}
+	.st70{font-size:3.9561px;}
+	.st71{fill:#E6E6E6;}
+	.st72{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st73{fill:#630097;}
+	.st74{font-size:5.1801px;}
+	.st75{font-family:'Montserrat-Regular';}
+	.st76{font-size:4.3168px;}
+	.st77{fill:none;stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st78{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st79{fill:none;stroke:#FF0076;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st80{fill:none;stroke:#630097;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st81{fill:none;stroke:#EDB900;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st82{font-size:10.6793px;}
+	.st83{font-size:3.7521px;}
+	.st84{font-size:2.5901px;}
+</style>
+<rect y="0" class="st0" width="256" height="360"/>
+<g>
+	
+		<image style="overflow:visible;opacity:0.35;" width="180" height="314" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAE6CAYAAAC/AHguAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAADUhJREFUeNrsnYFyo7oOQG0g6d33
+//+6t22I33QmzNVqJVsmhJD2nBkPNE0TWB+ELAybEgAAHJPMNkODghzIyUHwA4TKCP+jhS3fQeh8
+x3cj82tLXZ4hd97xc/OK9yD6a0TjEnit7CF2fvDn5c51IvfrR+LSub6p2HlHkVvLNXLDMSS3ZG0t
+HyJ23lhmT+TIOnJ/L4kj65HovavQUYFrr9UER+bXkNqStjRejwrexbSxyJ6wsg2V32mxkfv4kbkm
+8le7Vn7nfV9eK3beUOaWwN6yJTciH0/slsRSZG9ZGtF8VbSeHiSzlFa37PyM1K8vs5T26vyc1ete
+hC6iz8ujhK7JPDgyj4H1qNQI/Vyhe2SeK+u5IXfpFXmN0Dkos5RVLnXTUntiI/Sxhbai8CyWug3q
+9+m2PlSkDss9bSSzblLcyVifKmJrqSNCI/pjBoAtob2ovMh7UctlPQuZs4jU6V6ppw6ZUzAyS3m9
+pqUeK1In8ulD5c2pIvPsyCzbIKSWYi+fa0XqFM2ne1MObwA4OCKfxPKkXtOCW+kHA8RjDwSvhtBa
+4E+xHJyUMqkDJXecPbqErl3oqEXlk2pntZRyjwGpyaOPlz97Ms9K4q/2YZyBW/14daJzNUrfG6Gl
+1FJmKbDXTipa69RDfgdCH0foq5J6NqKzFPnDSSm9KFyEuHnLCO2d5muphozKb7d2FutvFamXz7Cq
+Hq2zBTxuYOgJLSO0zJelzLp/BzU2Ko7MUmr5vmaU7qlyWFWN0RBaC/zPrb0ZYp+MnR478miE3ldo
+K3+eDZkXod+NfvUis3UFMamcenWVIxqdvXTjLGT+JaSWcntRemm5MoBA4ucMDHW5bnaE/hARenJk
+tg6OZX0wUo9QlJ46o7OW2ko3zioyL1L/EnK/GVLX8uhMDn2IHLo08mcp87sjc21wqZvV/5uU7XJH
+dUOmHIvE/1NSL8Jroaf054UWhD6+0Fc1GFyElv1pDfC8+rWeB9I1p2MKpButq4OTEaF1yqGl/qci
+dKR0R+rx3Dxal+yk0CdRjh2N6GqlKtbl8UFF6VJZhiN0S2Ydoc+qwuFJrXPpngiNzM+TOhKhT6pa
+lVVU1lcRz7fldFuOQalXpxzRq4NehLby6F9GtWNyyjsIfVyhdYSuleesq4nLBZiTkLnW/w+59G3J
+PDpVjjdHbC9C13aoJjFyP0biWh5tle28QaCVmsgmHdJROvf077SislEr22mpz0b9+a2RQw8rhIb9
+B4b6wspoCFicst7S7x/p7zk91oW1q3OmbpbtciBCW2U7GaGt9MMS++xE6OiAkAi9X4RuDQzHRmSe
+lcjWZLVIydbr+7JF2c6K0mOyJyadG+t6p7JzukHc54tuXVwZnLKcjMy6v2U1xApmOg8P9X2kyhGd
+NmqlHj3Nu0pIdD5mlL6mP6/kyX6Qkdnrb2v6cGtA2BwYrr0Fqzax35vgfzLWrbtYetMNeE4urXNb
+KfokKhetOfA9N3jcHaFrEbt269VUWVq3ZOnbsaL5EzxHaj0bTr4+3SKz7m9vWUs1uvs/On00knpE
+b5AdjB3RMhOhjytzVnn0ePvdmP6bWDQG+n9wZG75ltId00dzR8XDkzq6E5G7vuFYDOnPO7ajwS0q
+c7OqsTbliD6jznuYTKTVjkikPk509txY09+1vk9rUs/WfOieysfQEDvy+C9m1x2X7IgdfZZhTeRI
+QAtF6ikgc+vBiblD8tYG93w3PKfCoUWKOBGVN6/wr+gcqPcITR2niMgpJJJeIPNxInTLh7SRG6uC
+2bDBjqXgBkX/TxUeW3B8qXOg/1Kl/6OpRXffDw84Or0dYbD3s6J45Nnfaeuz9BCMlrUNblVDeo5k
++J7pSUT2WjQPf/awIrXo3THEha19yFvm0ACHZdj5yCNiE5Ef6sWw884BOfVLROh7jzhk/1nSPuxM
+PTzp6KPG/P3Fzju5xKAQGBQCIDQAQgMgNABCA0IDIDQAQgMgNCA0/wSA0AAIDYDQAAgNCA2A0AAI
+DYDQAAgNCA2A0AAIDYDQAAgNCA2A0AAIDYDQAAgNCA2A0AAIDYDQAAgNCA2A0AAIDYDQAAgNCA2A
+0AAIDYDQAAgNCA2A0AAIDYDQgNAACA2A0AAIDYDQgNAACA2A0AAIDYDQgNAACA2A0AAIDYDQgNAA
+CA2A0AAIDYDQgNAACA2A0AAIDYDQgNAACA2A0AAIDYDQgNAACA2A0AAIDYDQgNAACA2A0AAIDQgN
+gNAACA2A0AAIDQgNgNAACA2A0AAIDQgNgNAACA2A0AAIDQgNgNAACA2A0AAIDQgNgNAACA2A0AAI
+DQgNgNAACA2A0AAIDQgNgNAACA2A0IDQAAgNgNAACA2A0IDQAAgNgNAACA2A0IDQAAgNgNAACA2A
+0IDQAAgNgNAACA2A0IDQAAgNgNAACA2A0IDQAAgNgNAACA2A0IDQAAgNgNAACA2A0IDQAAgNgNAA
+CA0IDYDQAAgNgNAACA0IDYDQAAgNgNAACA0IDYDQAAgNgNAACA0IDYDQAAgNgNAACA0IDYDQAAgN
+gNAACA0IDYDQAAgNgNAACA0IDYDQAAgNgNCA0AAIDYDQAAgNgNCA0AAIDYDQAAgNgNCA0AAIDYDQ
+AAgNgNCA0AAIDYDQAEcTutzxN4Uu+HaUDbw4XIQunRuH2N9H5Ef4cciUA2mR/WVy6OgRVxD7x4m8
+qxcMCuHHDArLjkcoELE3SWGGxptK5efi/L4YvysPOmDgdXLmEvAkBdypfvawcgO9jasdkT2yw+uL
+bPV3y5NekTfJoUvjdOJtXOk8kqlVH1fY0nnmLQ3Zy1Zp77DR0Vcqr7ei9GZHJ+yaRtTO0lu4seos
+Pjkbnisb3orKsl2d9Vr+lJ2fkfr4Yqc7PKg5EQ50U2Wjc0dqYW301VkvHTuUxc8Zlw6bH0eCmudE
+y4uu1HfqLLe0ThHWRkfbUNmJTIQ+XA7t9X20WWJHUpfulGPNAFBv7CyWs/Gat3NZyA3HF/rqROGr
+0+dzwIO7BopTY+Nz8JQS2YnZ2bHl5yWlGIXcmeh8SKllswSdA/0fldqL3KsidG1nro7MX+1SWV7U
++wYhrqy+yNfIn48bobW0un8vDSfmSkrSfWVxWrkz18oO6Z1Z2qdaH2/toioZo0g7IkIj+2OrGC0H
+ZieQfTp9r4PabIgtP//usl20LOcdnXInvLbIPDjflZ3IjbzHqXBooVt9rpsndyT1uDtC6yPTSjWW
+DdMb/nFr59tyEjLrmvPyWUNn2oHo+0bn4vS/7O/aumzSHS/1CEfpyRkIRisbs3GEXgyZv9q7iszZ
+EHkSMg9qYIi4xyrXSekuhtDvqn0YUktndJReVY+eOk4xXnnGSjW0yCcRmUclc1GfM64QGtEfG6Fr
+Qs9GhP7q838NqS2xdepxTfGLcXcPCkujorHs0EmJPDUi88V4nxY6I/FT5a6NoS6G0F/t903sfw3B
+tdRe5aOr0jF1iBw5OqXQk4rKlsyW0IN6P0IfV+jZSTnehcS/HbGt9CMyMLy7ypEruZOubiyDviVf
+nhoyL/8IJydCtwaGSL2fzK0BoU43tdC/jSi9vP+S/Lp0+KKKJ7SUOAekXvLepRz3IaLyqIQsqtTz
+aQjditBI/PwBYStCfwh5fztSWxH6EpTZlbunbJfTn3MuZHlNSz04Zbmi/gHOt6YHjQj9OkLPTtnu
+XaQeWmqZR38G6tGry3ZrdmgRupUmFKNmuchsCZ2dSgdSPyf1sKpdc2UcpXPpf5082suhuy+qtMp2
+Of09wb6kv2fGzUI+T8CWzCdjABmN0Mi9b/4cKQx8OrVob1BYK9t5d6/cPR9aiplE2rHIdnHkKs6O
+W9HZurAyKHER+nlCp2Rfi7hUovSHUa6zUo45OChcnXJ4UToZubSXEljluVZ5T+fPLaFhvxw6pb/v
+NLHm8lhS6/bZUbILReeeCO3lU1Lq5NQtvVPTdBN6dNINLxdH6OcK3SrfzsmeAvGZ7LkcVrrRnTtH
+hbaitE49an9rRWgZlaeAzF7+jNj7DghrebR1TUJPHbXmb0SqG+HofE+ETkbqkSojYjn56GJEZWsw
+ODSiM0I/R+iUYnPiL47ga6eNbhKhU6o/1mCZiH8NyHxRgz8psSdzNN1A7scMCCNph+7n2p1Lc2AA
+WBsIli2EtlIPLXVK/h27VyHvnP67S2Vw0ozaLDvEPVYeXZuB6d3J5N1T6MncdWGlVxBLsKxElEst
+rbeenbwZoY8vdCta19bLljL35tBexJaRenltUBs3iNQkB6IyA8HXGyB60dq7y6n1NK1Vd/rnO//G
+itQ5ELlrEiPza0tde2ZH5OlZ3nc9TOia1C25WyKn1J63gdjPHSh6T5WNPCIuIvFdj1q+V45atE4N
+YWsiI/FryR15imjredGbPDN8C1HyCsFTYNCH1K8VqVuCRwUuW8m45ee0UhIk/llyR1OKsrWIe4h9
+r8RI/lx518j9cJEfLUfulL1nexD6WEJ77ykr3nNYoSOfTyT+WZH7oSI/Q5p88O2DbaP2bhIfSRiE
+RfgfLxQHwQ+REwAAvhP/F2AACBFcQ8dnY8AAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 42 27)">
+	</image>
+	<g>
+		<g>
+			<path class="st13" d="M196.5,59.4v241.2c0,8.5-6.9,15.4-15.4,15.4H74.9c-8.5,0-15.4-6.9-15.4-15.4V59.4c0-8.5,6.9-15.4,15.4-15.4
+				h106.1C189.6,44,196.5,50.9,196.5,59.4z"/>
+			<g>
+				<text transform="matrix(1 0 0 1 113.5137 65.8442)" class="st67 st68">EXPENSES</text>
+			</g>
+			<g>
+				<g>
+					<circle cx="77.1" cy="89.6" r="0.9"/>
+					<circle cx="79.5" cy="89.6" r="0.9"/>
+					<path d="M82.8,89.6c0,0.5-0.4,0.9-0.9,0.9c-0.5,0-0.9-0.4-0.9-0.9s0.4-0.9,0.9-0.9C82.4,88.7,82.8,89.1,82.8,89.6z"/>
+					<path d="M85.2,89.6c0,0.5-0.4,0.9-0.9,0.9c-0.5,0-0.9-0.4-0.9-0.9s0.4-0.9,0.9-0.9C84.8,88.7,85.2,89.1,85.2,89.6z"/>
+				</g>
+				<g>
+					<path d="M91.4,89.6c0,0.5-0.4,0.9-0.9,0.9c-0.5,0-0.9-0.4-0.9-0.9s0.4-0.9,0.9-0.9C91,88.7,91.4,89.1,91.4,89.6z"/>
+					<path d="M93.8,89.6c0,0.5-0.4,0.9-0.9,0.9c-0.5,0-0.9-0.4-0.9-0.9s0.4-0.9,0.9-0.9C93.4,88.7,93.8,89.1,93.8,89.6z"/>
+					<circle cx="95.3" cy="89.6" r="0.9"/>
+					<circle cx="97.6" cy="89.6" r="0.9"/>
+				</g>
+				<g>
+					<path d="M104.7,89.6c0,0.5-0.4,0.9-0.9,0.9c-0.5,0-0.9-0.4-0.9-0.9s0.4-0.9,0.9-0.9C104.3,88.7,104.7,89.1,104.7,89.6z"/>
+					<path d="M107.1,89.6c0,0.5-0.4,0.9-0.9,0.9c-0.5,0-0.9-0.4-0.9-0.9s0.4-0.9,0.9-0.9C106.7,88.7,107.1,89.1,107.1,89.6z"/>
+					<circle cx="108.6" cy="89.6" r="0.9"/>
+					<path d="M111.9,89.6c0,0.5-0.4,0.9-0.9,0.9c-0.5,0-0.9-0.4-0.9-0.9s0.4-0.9,0.9-0.9C111.5,88.7,111.9,89.1,111.9,89.6z"/>
+				</g>
+				<g>
+					<text transform="matrix(1 0 0 1 118.5459 90.564)" class="st69 st70">5643</text>
+				</g>
+			</g>
+			<g>
+				<path class="st71" d="M83.5,69h-3.1c-2.3,0-4.2-1.9-4.2-4.2v-3.1c0-2.3,1.9-4.2,4.2-4.2h3.1c2.3,0,4.2,1.9,4.2,4.2v3.1
+					C87.6,67.1,85.8,69,83.5,69z"/>
+				<polyline class="st72" points="82.8,65 81,63.3 82.8,61.5 				"/>
+			</g>
+			<path class="st71" d="M172.2,69.2h-6.1c-1.7,0-3-1.3-3-3v-6.1c0-1.7,1.3-3,3-3h6.1c1.7,0,3,1.3,3,3v6.1
+				C175.2,67.9,173.9,69.2,172.2,69.2z"/>
+			<path class="st73" d="M174.8,177.4c11.9,0,21.6,10,21.6,22.4V300c0,8.8-6.9,16-15.4,16H74.9c-8.5,0-15.4-7.1-15.4-16V199.8
+				c0-12.4,9.7-22.4,21.6-22.4H174.8z"/>
+			<text transform="matrix(1 0 0 1 77.2383 217.0371)" class="st13 st67 st74">SHOPS</text>
+			<text transform="matrix(1 0 0 1 78.2715 198.043)" class="st13 st75 st74">Categories</text>
+			<text transform="matrix(1 0 0 1 79.4258 242.7266)" class="st13 st67 st74">RESTAURANTS</text>
+			<text transform="matrix(1 0 0 1 77.5244 268.1953)" class="st13 st67 st74">HEALTH</text>
+			<text transform="matrix(1 0 0 1 78.5684 293.6641)" class="st13 st67 st74">TECHNOLOGY</text>
+			<text transform="matrix(1 0 0 1 77.2813 225.4531)" class="st13 st75 st76">4 transactions</text>
+			<text transform="matrix(1 0 0 1 77.04 251.1426)" class="st13 st75 st76">9 transactions</text>
+			<text transform="matrix(1 0 0 1 77.748 276.6113)" class="st13 st75 st76">2 transactions</text>
+			<text transform="matrix(1 0 0 1 77.5283 302.0801)" class="st13 st75 st76">5 transactions</text>
+			<text transform="matrix(1 0 0 1 167.7705 217.0371)" class="st13 st69 st74">-$342</text>
+			<text transform="matrix(1 0 0 1 167.7705 242.7266)" class="st13 st69 st74">-$713</text>
+			<text transform="matrix(1 0 0 1 167.7705 268.1953)" class="st13 st69 st74">-$211</text>
+			<text transform="matrix(1 0 0 1 167.7539 293.6641)" class="st13 st69 st74">-$590</text>
+			<line class="st77" x1="76.2" y1="203" x2="180" y2="203"/>
+			<g>
+				<circle class="st78" cx="153.2" cy="129.8" r="28.1"/>
+				<circle class="st71" cx="153.2" cy="129.8" r="14.8"/>
+				<path class="st79" d="M181.3,129.8c0,15.5-12.6,28.1-28.1,28.1S125,145.4,125,129.8s12.6-28.1,28.1-28.1"/>
+				<path class="st80" d="M181.3,129.8c0,15.5-12.6,28.1-28.1,28.1S125,145.4,125,129.8"/>
+				<path class="st81" d="M181.3,129.8c0,15.5-12.6,28.1-28.1,28.1"/>
+			</g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 1 76.5674 162.2632)" class="st67 st82">$3566</text>
+					<text transform="matrix(1 0 0 1 76.793 114.2026)" class="st75 st68">$3048</text>
+					<g>
+						<text transform="matrix(1 0 0 1 74.7344 149.4683)" class="st75 st83">BALANCE</text>
+					</g>
+				</g>
+				<text transform="matrix(1 0 0 1 76.7275 106.1567)" class="st75 st84">SPENT</text>
+				<text transform="matrix(1 0 0 1 75.9297 132.6333)" class="st75 st68">$2849</text>
+				<text transform="matrix(1 0 0 1 76.2598 124.5864)" class="st75 st84">SAVINGS</text>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
