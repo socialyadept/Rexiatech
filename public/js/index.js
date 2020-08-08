@@ -6,7 +6,7 @@ $(document).ready(() => {
     });
 
     function hoverContent(value) {
-        $("a:nth-child(" + value + ") .div-block").toggleClass('inverse');
+        $("a:nth-child(" + value + ") .div-block").toggleClass('inverse shadow-sm');
         $("a:nth-child(" + value + ") span").toggleClass('inverse spanhover');
         $("a:nth-child(" + value + ") h5").toggleClass('inverse');
 
